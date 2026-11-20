@@ -1,0 +1,12 @@
+# HRS data may not be redistributed (HRS conditions of use). Never commit data.
+data/raw/*
+data/derived/*
+!data/raw/.gitkeep
+!data/derived/.gitkeep
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store

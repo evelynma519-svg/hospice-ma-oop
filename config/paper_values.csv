@@ -1,0 +1,19 @@
+model,term,estimate,se,n
+"T3 OLS baseline",maenroll,157.189,480.932,294
+"T3 OLS baseline",gender,-419.357,418.013,294
+"T3 OLS baseline",race,518.847,340.654,294
+"T3 OLS baseline",eduyear,-71.947,28.156,294
+"T3 OLS baseline",income,0.006,0.002,294
+"T3a GLM baseline",maenroll,0.779,0.733,294
+"T3a GLM baseline",gender,-1.548,0.741,294
+"T3a GLM baseline",race,5.247,1.333,294
+"T3a GLM baseline",eduyear,-0.585,0.164,294
+"T3b OLS extra controls",maenroll,-58.911,314.948,31
+"T3b OLS extra controls",gender,80.999,361.914,31
+"T3b OLS extra controls",race,253.614,206.250,31
+"T3b OLS extra controls",eduyear,-25.276,22.281,31
+"T3b OLS extra controls",income,-0.001,0.001,31
+"T3c log OOP",maenroll,2.109,0.733,23
+"T3c log OOP",gender,-0.499,0.749,23
+"T3c log OOP",race,3.025,1.189,23
+"T3c log OOP",eduyear,-0.187,0.133,23

@@ -1,0 +1,21 @@
+outcome,step,n,controls
+RAND imputed (REMAHSPC),Exit respondents with outcome,2246,Complete cases
+RAND imputed (REMAHSPC),non-missing maenroll,1556,Complete cases
+RAND imputed (REMAHSPC),non-missing female,1556,Complete cases
+RAND imputed (REMAHSPC),non-missing race_resp,1556,Complete cases
+RAND imputed (REMAHSPC),non-missing eduyear_resp,1554,Complete cases
+RAND imputed (REMAHSPC),non-missing log_income,1177,Complete cases
+RAND imputed (REMAHSPC),estimation sample (all controls),1177,Complete cases
+Raw Exit item,Exit respondents with outcome,965,Complete cases
+Raw Exit item,non-missing maenroll,755,Complete cases
+Raw Exit item,non-missing female,755,Complete cases
+Raw Exit item,non-missing race_resp,755,Complete cases
+Raw Exit item,non-missing eduyear_resp,753,Complete cases
+Raw Exit item,non-missing log_income,579,Complete cases
+Raw Exit item,estimation sample (all controls),579,Complete cases
+RAND imputed (REMAHSPC),Exit respondents with outcome,2246,Missing-income indicator
+RAND imputed (REMAHSPC),non-missing maenroll,1556,Missing-income indicator
+RAND imputed (REMAHSPC),non-missing female,1556,Missing-income indicator
+RAND imputed (REMAHSPC),non-missing race_resp,1556,Missing-income indicator
+RAND imputed (REMAHSPC),non-missing eduyear_resp,1554,Missing-income indicator
+RAND imputed (REMAHSPC),estimation sample (all controls),1554,Missing-income indicator
